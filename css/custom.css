@@ -18,6 +18,14 @@ URL:            http://www.tabthemes.com/
     background-color: #769898;
 }
 
+.dark-tan-background{
+    background-color: #DFD4C3;
+}
+
+.light-tan-background{
+    background-color: #F1EBDF;
+}
+
 .m-sides-centered{
     margin-left: auto;
     margin-right: auto;
@@ -25,5 +33,9 @@ URL:            http://www.tabthemes.com/
 
 .white-text{
     color:white;
+}
+
+.black-text{
+    color:black;
 }
 
