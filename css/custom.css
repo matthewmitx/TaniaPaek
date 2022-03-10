@@ -35,6 +35,24 @@ URL:            http://www.tabthemes.com/
     color:white;
 }
 
+.bamboo-bg{
+    background-repeat: repeat-y;
+    position: relative;
+    top:0;
+}
+
+.bamboo-child{
+    position: relative;
+    top:0;
+}
+
+@media (min-width: 100px) {
+    .bamboo-bg {
+        background-image: url("../img/bamboobg-large.png");
+    }
+}
+
+
 /* .black-text{
     color:black;
 } */
